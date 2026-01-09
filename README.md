@@ -12,4 +12,4 @@ This dashboard also has the ability to drill down and filter events/connections 
 - Python
 
 ## Conclusion
-I created this Splunk firewall dashboard to see a glance the current network environment and for any potentionial malicious intrusion.
+I created this Splunk firewall dashboard to see a glance the current network environment and for any potentionial malicious intrusions.
