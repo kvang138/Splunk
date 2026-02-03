@@ -1,4 +1,4 @@
-# Splunk Firewall Dashboard
+# Splunk Firewall Sentinel
 
 ## Introduction
 In this project, I created a Splunk firewall dashboard. This dashboard shows various metrics based on the selected time range.
