@@ -7,7 +7,7 @@ This dashboard also has the ability to drill down and filter events/connections 
 
 ![Splunk Firewall dashboard](https://raw.githubusercontent.com/kvang138/Splunk/refs/heads/main/Splunk%20Firewall.png)
 
-## Tools/languages used.
+## Tools/Languages used.
 - Splunk and SPL
 - Python
 
